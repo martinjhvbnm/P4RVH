@@ -1,0 +1,6 @@
+<additional>
+    <vType id="car" vClass="passenger" accel="2.6" decel="4.5" sigma="0.5" tau="1.0" color="yellow"/>
+    <vType id="bus" vClass="bus" length="12" accel="1.2" decel="2.5" sigma="0.5" tau="1.0" color="blue"/>
+    <vType id="moto" vClass="motorcycle" minGap="1" accel="3.5" decel="6.0" sigma="0.5" tau="1.0" color="magenta"/>
+    <vType id="ambulance" vClass="emergency" guiShape="emergency" speedFactor="1.3" color="white"/>
+</additional>

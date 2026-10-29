@@ -1,0 +1,40 @@
+
+=== INDICADORES ===
+Total accidentes registrados: 17
+Accidentes cerrados (con respuesta): 13
+Accidentes en espera (sin ambulancia): 4
+
+Tiempo de respuesta (despacho → llegada):
+  Mediana: 192 s
+  Media:   183 s
+  P90:     308 s
+  Mín:     14 s
+  Máx:     351 s
+
+Tiempo total (accidente → llegada):
+  Mediana: 192 s
+  Media:   183 s
+  P90:     308 s
+
+Retornos a hospital distinto: 6/13 (46.2%)
+
+=== USO POR HOSPITAL ===
+Hospital        Stock Ini  Stock Fin  Despachos  Retornos   Utilización
+VCM             3          1          7          5          13.0%
+IESS_JCA        1          1          1          1          5.6%
+MILITAR         1          0          1          0          5.6%
+MUNI_PAT        3          4          1          2          1.9%
+MUNI_VALLE      2          2          0          0          0.0%
+MONTE_SINAI     0          2          3          5          
+DEL_RIO         0          0          0          0          
+
+✅ Gráfico (a) guardado: RA_fig_a_tiempo_respuesta.png
+✅ Gráfico (b) guardado: RA_fig_b_uso_hospital.png
+✅ Gráfico (c) guardado: RA_fig_c_stock_tiempo.png
+✅ Gráfico (d) guardado: RA_fig_d_mapa.png
+
+=== TODOS LOS GRÁFICOS GENERADOS ===
+  RA_fig_a_tiempo_respuesta.png
+  RA_fig_b_uso_hospital.png
+  RA_fig_c_stock_tiempo.png
+  RA_fig_d_mapa.png

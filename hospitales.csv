@@ -1,0 +1,8 @@
+Hospital,Tipo,Stock Inicial,Stock Final,Rechazos
+VCM,público,3,1,5
+IESS_JCA,público,1,1,6
+MILITAR,público,1,0,3
+MUNI_PAT,público,3,4,8
+MUNI_VALLE,público,2,2,10
+MONTE_SINAI,privado,0,2,6
+DEL_RIO,privado,0,0,0

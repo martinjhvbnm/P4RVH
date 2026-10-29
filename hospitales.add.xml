@@ -1,0 +1,10 @@
+<additional>
+    <!-- Marcadores visuales de hospitales sin vincular a carriles especificos -->
+    <poi id="HOSP_VCM" color="blue" type="hospital" x="721500" y="9680000" layer="100"/>
+    <poi id="HOSP_IESS_JCA" color="red" type="hospital" x="722000" y="9680500" layer="100"/>
+    <poi id="HOSP_SAN_MARTIN" color="red" type="hospital" x="721000" y="9681000" layer="100"/>
+    <poi id="HOSP_CLINICA_LATINA" color="red" type="hospital" x="721800" y="9679800" layer="100"/>
+    <poi id="HOSP_SAN_JOSE" color="red" type="hospital" x="722200" y="9680200" layer="100"/>
+    <poi id="HOSP_SAN_JUAN" color="red" type="hospital" x="721300" y="9680700" layer="100"/>
+    <poi id="HOSP_HUMANA" color="red" type="hospital" x="721900" y="9681200" layer="100"/>
+</additional>
